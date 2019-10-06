@@ -1,4 +1,4 @@
 # ProdajaAutomobilaFrontend
-Angular, JavaScript, Bootstrap, HTML, CSS
+AngularJS, JavaScript, Bootstrap, HTML, CSS
 
-https://miljkovicmarko.github.io/ProdajaAutomobilaFrontend/
+https://miljkovicmarko.github.io/ProdajaAutomobilaFrontend
